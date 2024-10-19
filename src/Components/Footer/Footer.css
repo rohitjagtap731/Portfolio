@@ -50,7 +50,7 @@
     gap: 50px;
     margin-bottom: 50px;
 }
-.footer-email-input input:hover{
+.footer-email-input:hover{
     border: 2px solid white;
 }
 .footer-subscribe:hover{
