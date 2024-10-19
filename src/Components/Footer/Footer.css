@@ -70,4 +70,8 @@
         flex-direction: column-reverse;
         margin-bottom: 50px;
     }
+    .footer-email-input{
+        padding: 12px 14px;
+        max-width: 200px;
+    }
 }
