@@ -1,12 +1,12 @@
 import React from "react";
 import './Hero.css';
-import profile_img from '../../assets/profile_img.svg';
+import lockcircuit from '../../assets/lock-circuit.svg';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const Hero = () =>{
     return (
         <div id="home" className="hero">
-            <img src={profile_img} alt=""/>
+            <img src={lockcircuit} alt=""/>
             <h1><span>I'm Rohit Jagtap,</span> Software Devloper based in India.</h1>
             <p>I am a software developer from Pune, India with 2 years of experience in Aloha Technology pvt.</p>
             <div className="hero-action">
